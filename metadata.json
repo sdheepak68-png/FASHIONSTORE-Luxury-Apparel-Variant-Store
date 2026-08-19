@@ -1,0 +1,6 @@
+{
+  "name": "FashionStore - Fashion E-Commerce Platform",
+  "description": "Full-featured fashion retail platform with advanced size/color variant management, multi-faceted filtering, shopping cart, checkout, AI size advisor, virtual try-on, and admin management suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
